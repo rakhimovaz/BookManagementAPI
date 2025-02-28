@@ -19,11 +19,10 @@ The Book Management API is a RESTful API developed using ASP.NET Core that allow
 
  Installation
 
-1. Clone the repository:
-   ```bash
-clone the repository 
-cd BookManagementAPI
-   ```
+ 1. Clone the repository
+```bash
+git clone https://github.com/rakhimovaz/BookManagementAPI.git
+```
 
 2. Restore the dependencies:
    ```bash
